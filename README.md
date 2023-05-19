@@ -40,6 +40,3 @@ There are five files in this repository:
 * `dwg.cfg`: a configuration file that contains the necessary information to connect to the Redshift cluster and IAM role.
 * `README.md` : this file you are reading right now. 
 
-We are using an AWS Redshift cluster with 
-
-
