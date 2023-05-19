@@ -27,6 +27,10 @@ The fact and dimension tables are:
 
 Finally, we load the data into AWS Redshift.
 
+Here's a diagram of the tables:
+
+![Sparkify diagram](/sparkify-diagram.png)
+
 ## How each file works
 
 There are five files in this repository:
